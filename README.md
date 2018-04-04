@@ -25,3 +25,5 @@ or from the REPL itself:
 
 `* (load "clear-script.lisp")`
 
+To finish, the goal is to be ready to go in no time with a quick installation [this](https://portacle.github.io/) may be of some interest.
+
