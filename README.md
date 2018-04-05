@@ -34,9 +34,13 @@ To finish, the goal is to be ready to go in no time with a quick installation [P
 Some good resources about LISP
 ------------------------------
 [The Common Lisp Hyperspec]
+
 [SBCL Official Site]
+
 [Common Lips CookBook]
+
 [Portacle: Portable Git/Emacs/SBCL/Quicklisp distribution]
+
 
 
 [The Common Lisp Hyperspec]: http://www.lispworks.com/documentation/HyperSpec/Front/index.htm
