@@ -18,7 +18,7 @@ More tips at the [Common Lips CookBook]
 
 For bash user you may want to creat the small and practical alias. When in the home directory and add this line to your `bash_aliases`
 
-`alias lisp="rlwrap sbcl"`
+`alias lisp="rlwrap sbcl --load '/absolute/path/of/the/clear-script.lisp'"`
 
 Also, there is no clear screen for the REPL of SBCL so you may want to load the `clear-script.lisp` file when firing up the REPL for instance with:
 
