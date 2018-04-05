@@ -40,7 +40,7 @@ Some good resources about LISP
 
 [Common Lips CookBook]: A good cookbook with interesting resources about the different possible implementation of Lisp.
 
-[Portacle: Portable Git/Emacs/SBCL/Quicklisp distribution]: The goal is to be ready to go in no time with a quick installation [Portacle: Portable Git/Emacs/SBCL/Quicklisp distribution] may be of some interest.
+[Portacle: Portable Git/Emacs/SBCL/Quicklisp distribution]: The goal is to be ready to go in no time with a quick installation, this may be of some interest.
 
 [Paul Graham Blog]: The writer of the two unavoidable (in my opinion) books about Lisp (*ANSI Common Lisp* and the more difficult *On Lisp* see: [Paul Graham Books]). This blog is mine of information about (amonst other things) programming differently with Lisp, bottom-up design and more...
 
